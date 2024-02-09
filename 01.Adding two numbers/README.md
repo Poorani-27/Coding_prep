@@ -8,3 +8,5 @@ Welcome to the Adding Two Numbers repository! Here, you'll find various implemen
 ## Using operator.add method
 ## Using lambda function
 ## Using Recursive function'''
+
+![](./code.png)
