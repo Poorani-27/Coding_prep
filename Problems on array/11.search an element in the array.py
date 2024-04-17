@@ -24,3 +24,6 @@ def finding_element(arr,k):
 arr=[1,2,3,4,5]
 k=3
 finding_element(arr,k)
+
+'''Time Complexity: O(n)
+Space Complexity: O(1)'''
