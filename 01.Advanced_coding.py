@@ -18,10 +18,14 @@ def finding_wheels(v,w):
         print("Invalid ")
     else:
         x=((v*4)-w)//2
+        print(v*4)
+        print((v*4)-w)
+        print((((v*4))-w)//2)
+
         tw=x
         fw=v-x
         print(tw,fw)
 
-v=int(input())
-w=int(input())
-finding_wheels(v,w)
+v=200
+w=540
+finding_wheels("tw=",v,"fw=",w)
