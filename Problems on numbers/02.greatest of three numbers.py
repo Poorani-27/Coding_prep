@@ -28,3 +28,5 @@ def finding_greatest(num1,num2,num3):
 
 a,b,c=map(float,input().split())
 finding_greatest(a,b,c)
+
+#he time complexity of the finding_greatest function is O(1), and the space complexity is also O(1)

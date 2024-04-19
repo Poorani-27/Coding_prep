@@ -23,3 +23,5 @@ def max_num (a,b):
 
 a,b=map(int,input().split())
 print(max_num(a,b))
+
+#the time complexity of the max_num function is O(1), and the space complexity is also O(1)

@@ -23,3 +23,5 @@ def odd_even (num):
 
 num=float(input('num = '))
 odd_even(num)
+
+#the time complexity of the odd_even function is O(1), and the space complexity is also O(1),
