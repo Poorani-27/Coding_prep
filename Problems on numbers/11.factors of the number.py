@@ -27,3 +27,10 @@ num= int(input("enter a number : "))
 result= finding_factors(num)
 for i in result:
     print(i, end= " ")
+
+'''
+The time complexity of this code is O(n), where n is the value of the input number. This is because the loop runs from 1 to num.
+
+The space complexity of this code is also O(n) because the `factors` list can potentially hold up to n elements, where n is the number of factors of the input number.
+
+'''

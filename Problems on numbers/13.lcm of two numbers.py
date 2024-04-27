@@ -27,7 +27,6 @@ def lcm(num1,num2):
         if num2%i==0:
             factors_num2.append(i)
     result = list(set(factors_num1) | set(factors_num2))
-    print(result)
     print('lcm : ' , max(result))
      
 
